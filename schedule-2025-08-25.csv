@@ -1,0 +1,42 @@
+Employee,2025-07-31,2025-08-01,2025-08-02,2025-08-03,2025-08-04,2025-08-05,2025-08-06,2025-08-07,2025-08-08,2025-08-09,2025-08-10,2025-08-11,2025-08-12,2025-08-13,2025-08-14,2025-08-15,2025-08-16,2025-08-17,2025-08-18,2025-08-19,2025-08-20,2025-08-21,2025-08-22,2025-08-23,2025-08-24,2025-08-25,2025-08-26,2025-08-27,2025-08-28,2025-08-29,2025-08-30
+Skonieczny Dariusz,D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,V
+Żmijewski Mariusz,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,V
+Obłoza Janusz,O,D,O,D,O,D,O,D,O,D,O,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,V
+Gajowniczek Adam,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,V
+Krzak Jarosław,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,V
+Gregorczyk Dariusz,N,O,N,O,N,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,O,V
+Wasikowski Paweł,D,O,O,N,O,N,O,O,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,V
+Giemza Grzegorz,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,V
+Swobut Andrzej,O,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,V
+Centkowski Andrzej,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,V
+Arciszewski Andrzej,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,V
+Wróblewski Piotr,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,O,V
+Sekuła Mariusz,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,V
+Grzegrzółka Jan,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,V
+Piotrowski Dariusz,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,V
+Bondarczuk Waldemar,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,D,O,D,O,V
+Kuciński Tomasz [D],N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,D,O,D,O,O,V
+Widłak Mirosław,D,O,D,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,V
+Miecznikowski Bogdan,O,D,O,D,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,V
+Bukowicki Leszek,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,V
+Wawer Zbigniew,D,O,O,O,O,O,O,O,O,D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,D,O,O,O,V
+Prasuła Andrzej,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,V
+Ambroziak Mariusz,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,N,O,V
+Kalata Sylwester,D,O,O,D,O,D,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,N,V
+Marchlik Andrzej,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,V
+Czajczyk Piotr,D,O,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,V
+Marczak Wiesław,O,D,O,D,O,D,O,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,V
+Abramczyk Andrzej,O,O,D,O,D,O,D,O,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,V
+Jankowski Kamil,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,V
+Szot Krzysztof [D],N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,V
+Jakub Fic,O,D,O,D,O,D,O,D,O,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,N,O,D,O,D,V
+Pawlik Sylwester,O,O,O,O,D,O,O,O,O,O,O,O,O,D,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,V
+Perzanowski Marek,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,O,V
+Telak Leszek,D,O,O,N,O,D,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,N,O,N,V
+Winiarski Marek,O,D,O,D,O,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,V
+Poziemski Jan,D,O,D,O,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,D,V
+Płochocki Marcin,O,D,O,D,O,D,O,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,O,V
+Kryczka Sławomir,O,O,D,O,D,O,D,O,O,D,O,D,O,N,O,N,O,N,O,N,O,D,O,D,O,D,O,D,O,D,V
+Kajas Janusz,O,O,O,O,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,D,O,V
+Wielocha Lech,O,O,O,O,O,O,O,O,D,O,D,O,D,O,D,O,D,O,D,O,O,N,O,N,O,N,O,N,O,D,V
+Mituła Łukasz,N,O,N,O,N,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,O,D,O,D,O,D,O,N,O,V
