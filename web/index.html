@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<title>Team Schedule Generator</title>
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div class="container">
+  <h1>Team Schedule Generator</h1>
+  <div class="controls">
+    <label>CSV File: <input type="file" id="csvFile" accept=".csv" /></label>
+    <label>Start Offset: <input type="number" id="offset" value="0" min="0" max="3" /></label>
+    <button id="generateBtn">Generate</button>
+    <a id="downloadLink" style="display:none">Download CSV</a>
+  </div>
+  <div id="output"></div>
+</div>
+<script src="schedule.js"></script>
+</body>
+</html>

@@ -1,0 +1,44 @@
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: Arial, sans-serif;
+}
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+}
+h1 {
+  color: #bb86fc;
+}
+.controls label {
+  margin-right: 20px;
+}
+button {
+  background-color: #6200ea;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #3700b3;
+}
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+th, td {
+  border: 1px solid #333;
+  padding: 4px 8px;
+}
+th {
+  background-color: #3700b3;
+}
+a#downloadLink {
+  margin-left: 15px;
+  color: #bb86fc;
+  text-decoration: none;
+}
+a#downloadLink:hover {
+  text-decoration: underline;
+}
